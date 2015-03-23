@@ -1,0 +1,16 @@
+{
+  "name": "AnalogRead",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  "cron":"latest",
+      "nodemailer":"0.7",
+      "time":"latest",
+      "libbase64":"latest",
+      "libqp":"latest"
+    }
+}
